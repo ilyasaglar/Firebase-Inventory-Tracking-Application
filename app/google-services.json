@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "878269039796",
+    "firebase_url": "https://deneme2-64e90.firebaseio.com",
+    "project_id": "deneme2-64e90",
+    "storage_bucket": "deneme2-64e90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878269039796:android:a354a0895593bff4",
+        "android_client_info": {
+          "package_name": "com.ilyassaglar.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878269039796-u5gqhfhibhntqo3lc7klt9vorqmtl3g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7fH-Q1Emw2rdISdA7mMkg1P1ZqjhtfvQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
